@@ -1,0 +1,386 @@
+[
+  {
+    "question": "What does ABS stand for in a car?",
+    "answer": "Anti-lock Braking System."
+  },
+  {
+    "question": "What is the purpose of a catalytic converter?",
+    "answer": "It reduces harmful emissions from the exhaust gases."
+  },
+  {
+    "question": "What is horsepower?",
+    "answer": "A unit of measurement for engine power."
+  },
+  {
+    "question": "What does RPM mean?",
+    "answer": "Revolutions Per Minute, indicating engine speed."
+  },
+  {
+    "question": "What is torque?",
+    "answer": "The rotational force produced by the engine."
+  },
+  {
+    "question": "What is the function of engine oil?",
+    "answer": "To lubricate engine parts and reduce friction."
+  },
+  {
+    "question": "What does ECU stand for?",
+    "answer": "Engine Control Unit."
+  },
+  {
+    "question": "What is the function of a turbocharger?",
+    "answer": "To force more air into the engine for increased power."
+  },
+  {
+    "question": "What is oversteer?",
+    "answer": "When the rear wheels lose grip before the front wheels during a turn."
+  },
+  {
+    "question": "What is understeer?",
+    "answer": "When the front wheels lose grip before the rear wheels during a turn."
+  },
+  {
+    "question": "What is a hybrid car?",
+    "answer": "A vehicle that uses both a gasoline engine and an electric motor."
+  },
+  {
+    "question": "What is a plug-in hybrid?",
+    "answer": "A hybrid car that can be recharged from an external power source."
+  },
+  {
+    "question": "What does AWD stand for?",
+    "answer": "All-Wheel Drive."
+  },
+  {
+    "question": "What does FWD stand for?",
+    "answer": "Front-Wheel Drive."
+  },
+  {
+    "question": "What does RWD stand for?",
+    "answer": "Rear-Wheel Drive."
+  },
+  {
+    "question": "What is a sedan?",
+    "answer": "A passenger car with four doors and a separate trunk."
+  },
+  {
+    "question": "What is a hatchback?",
+    "answer": "A car with a rear door that swings upward to access the cargo area."
+  },
+  {
+    "question": "What is an SUV?",
+    "answer": "Sport Utility Vehicle, designed for both on-road and off-road use."
+  },
+  {
+    "question": "What is a coupe?",
+    "answer": "A two-door car with a fixed roof."
+  },
+  {
+    "question": "What is a convertible?",
+    "answer": "A car with a roof that can be retracted or removed."
+  },
+  {
+    "question": "What is a VIN?",
+    "answer": "Vehicle Identification Number."
+  },
+  {
+    "question": "What is a manual transmission?",
+    "answer": "A gearbox where the driver shifts gears manually using a clutch."
+  },
+  {
+    "question": "What is an automatic transmission?",
+    "answer": "A gearbox that changes gears automatically."
+  },
+  {
+    "question": "What is cruise control?",
+    "answer": "A system that maintains a set speed without driver input on the accelerator."
+  },
+  {
+    "question": "What is adaptive cruise control?",
+    "answer": "Cruise control that adjusts speed based on the distance to the car ahead."
+  },
+  {
+    "question": "What is regenerative braking?",
+    "answer": "A braking system in electric and hybrid cars that recovers energy."
+  },
+  {
+    "question": "What is lane-keeping assist?",
+    "answer": "A system that helps keep the car within lane markings."
+  },
+  {
+    "question": "What is a differential?",
+    "answer": "A mechanical device that allows wheels to rotate at different speeds."
+  },
+  {
+    "question": "What does MPH stand for?",
+    "answer": "Miles Per Hour."
+  },
+  {
+    "question": "What does km/h stand for?",
+    "answer": "Kilometers per hour."
+  },
+  {
+    "question": "What is a tachometer?",
+    "answer": "A gauge that shows engine RPM."
+  },
+  {
+    "question": "What is an odometer?",
+    "answer": "A device that measures the total distance traveled by a vehicle."
+  },
+  {
+    "question": "What is a timing belt?",
+    "answer": "A belt that synchronizes the engine's camshaft and crankshaft."
+  },
+  {
+    "question": "What is a serpentine belt?",
+    "answer": "A belt that drives multiple engine accessories."
+  },
+  {
+    "question": "What is hydroplaning?",
+    "answer": "When a vehicle loses traction due to water on the road."
+  },
+  {
+    "question": "What is a cold air intake?",
+    "answer": "A system that brings cooler air into the engine for better performance."
+  },
+  {
+    "question": "What is a muffler?",
+    "answer": "A device that reduces exhaust noise."
+  },
+  {
+    "question": "What is a chassis?",
+    "answer": "The frame of a vehicle on which all components are mounted."
+  },
+  {
+    "question": "What is a drivetrain?",
+    "answer": "The system that delivers power from the engine to the wheels."
+  },
+  {
+    "question": "What is traction control?",
+    "answer": "A system that prevents wheel spin during acceleration."
+  },
+  {
+    "question": "What is an airbag?",
+    "answer": "A safety device that inflates during a collision to protect occupants."
+  },
+  {
+    "question": "What is tire tread?",
+    "answer": "The patterned surface of a tire that provides grip."
+  },
+  {
+    "question": "What is tire pressure?",
+    "answer": "The amount of air inside a tire, measured in PSI or bar."
+  },
+  {
+    "question": "What is the purpose of windshield wipers?",
+    "answer": "To clear rain, snow, and debris from the windshield."
+  },
+  {
+    "question": "What is the difference between diesel and gasoline?",
+    "answer": "Diesel fuel is denser, with more energy per liter, and used in diesel engines."
+  },
+  {
+    "question": "What is a hybrid battery?",
+    "answer": "A rechargeable battery that powers the electric motor in hybrid cars."
+  },
+  {
+    "question": "What is a timing chain?",
+    "answer": "A metal chain that synchronizes engine valves and pistons."
+  },
+  {
+    "question": "What is the function of a radiator?",
+    "answer": "To dissipate heat from the engine coolant."
+  },
+  {
+    "question": "What is engine displacement?",
+    "answer": "The total volume of all cylinders in an engine."
+  },
+  {
+    "question": "What is fuel injection?",
+    "answer": "A system that sprays fuel into the engine's combustion chambers."
+  },
+  {
+    "question": "What is a spark plug?",
+    "answer": "A device that ignites the air-fuel mixture in gasoline engines."
+  },
+  {
+    "question": "What is a diesel glow plug?",
+    "answer": "A heating device that helps start a diesel engine."
+  },
+  {
+    "question": "What is hybrid synergy drive?",
+    "answer": "Toyota's hybrid system combining gas and electric power."
+  },
+  {
+    "question": "What is a supercharger?",
+    "answer": "A device that increases engine power by forcing air into it."
+  },
+  {
+    "question": "What is a flywheel?",
+    "answer": "A rotating mechanical device that stores rotational energy."
+  },
+  {
+    "question": "What is a CVT?",
+    "answer": "Continuously Variable Transmission."
+  },
+  {
+    "question": "What is an exhaust manifold?",
+    "answer": "A component that collects exhaust gases from the engine cylinders."
+  },
+  {
+    "question": "What is a head gasket?",
+    "answer": "A seal between the engine block and cylinder head."
+  },
+  {
+    "question": "What is a fuel pump?",
+    "answer": "A device that moves fuel from the tank to the engine."
+  },
+  {
+    "question": "What is a clutch?",
+    "answer": "A mechanical device that connects and disconnects the engine from the transmission."
+  },
+  {
+    "question": "What is the purpose of shock absorbers?",
+    "answer": "To dampen the impact of road irregularities."
+  },
+  {
+    "question": "What is wheel alignment?",
+    "answer": "Adjusting wheel angles to meet manufacturer specifications."
+  },
+  {
+    "question": "What is a driveshaft?",
+    "answer": "A rotating shaft that transmits power from the transmission to the differential."
+  },
+  {
+    "question": "What is a sunroof?",
+    "answer": "A panel on the car roof that can be opened for light and air."
+  },
+  {
+    "question": "What is a moonroof?",
+    "answer": "A glass sunroof that usually tilts or slides open."
+  },
+  {
+    "question": "What is an alternator?",
+    "answer": "A device that generates electricity to recharge the battery."
+  },
+  {
+    "question": "What is a catalytic converter made of?",
+    "answer": "It contains precious metals like platinum, palladium, and rhodium."
+  },
+  {
+    "question": "What is the function of a starter motor?",
+    "answer": "To turn the engine over during ignition."
+  },
+  {
+    "question": "What is lane departure warning?",
+    "answer": "A system that alerts the driver if the car drifts out of its lane."
+  },
+  {
+    "question": "What is blind spot monitoring?",
+    "answer": "A system that detects vehicles in the driver's blind spots."
+  },
+  {
+    "question": "What is a panoramic roof?",
+    "answer": "A large or multi-panel sunroof covering most of the roof."
+  },
+  {
+    "question": "What is a tailgate?",
+    "answer": "The rear door of a pickup truck or SUV cargo area."
+  },
+  {
+    "question": "What is an infotainment system?",
+    "answer": "A multimedia system providing entertainment and information."
+  },
+  {
+    "question": "What is the fastest production car in the world as of 2025?",
+    "answer": "The SSC Tuatara, with a top speed exceeding 300 mph."
+  },
+  {
+    "question": "What is a concept car?",
+    "answer": "A prototype showcasing new designs and technology."
+  },
+  {
+    "question": "What is a recall?",
+    "answer": "A request by a manufacturer to repair defective vehicles."
+  },
+  {
+    "question": "What is a hydrogen fuel cell vehicle?",
+    "answer": "A car that uses hydrogen to produce electricity for propulsion."
+  },
+  {
+    "question": "What is an autonomous vehicle?",
+    "answer": "A self-driving car using sensors and AI to operate without human input."
+  },
+  {
+    "question": "What is the 'Check Engine' light?",
+    "answer": "An indicator that there is a problem with the engine or emissions system."
+  },
+  {
+    "question": "What is a brake pad?",
+    "answer": "A component that presses against the brake disc to slow the car."
+  },
+  {
+    "question": "What is a brake rotor?",
+    "answer": "The disc that brake pads clamp onto to stop the car."
+  },
+  {
+    "question": "What is the purpose of power steering?",
+    "answer": "To make steering easier for the driver."
+  },
+  {
+    "question": "What is an air filter?",
+    "answer": "A component that cleans the air entering the engine."
+  },
+  {
+    "question": "What is the function of a fuel filter?",
+    "answer": "To remove impurities from fuel before it reaches the engine."
+  },
+  {
+    "question": "What is the function of coolant?",
+    "answer": "To keep the engine from overheating."
+  },
+  {
+    "question": "What is a dashboard?",
+    "answer": "The panel in front of the driver containing controls and instruments."
+  },
+  {
+    "question": "What is a limited-slip differential?",
+    "answer": "A differential that reduces wheel spin by transferring torque between wheels."
+  },
+  {
+    "question": "What is a lift kit?",
+    "answer": "A modification that raises a vehicle's suspension for more ground clearance."
+  },
+  {
+    "question": "What is a spoiler?",
+    "answer": "A device that improves aerodynamics by reducing lift."
+  },
+  {
+    "question": "What is the purpose of daytime running lights?",
+    "answer": "To improve vehicle visibility during the day."
+  },
+  {
+    "question": "What is a dashboard warning light?",
+    "answer": "An illuminated symbol indicating a vehicle system status or fault."
+  },
+  {
+    "question": "What is lane centering assist?",
+    "answer": "A system that actively keeps the vehicle centered in its lane."
+  },
+  {
+    "question": "What is the purpose of side mirrors?",
+    "answer": "To provide visibility of the areas alongside and behind the vehicle."
+  },
+  {
+    "question": "What is tire rotation?",
+    "answer": "The practice of moving tires to different positions to ensure even wear."
+  },
+  {
+    "question": "What is a tow hitch?",
+    "answer": "A device for attaching a trailer to a vehicle."
+  },
+  {
+    "question": "What is the purpose of fog lights?",
+    "answer": "To improve visibility in foggy conditions."
+  }
+]
