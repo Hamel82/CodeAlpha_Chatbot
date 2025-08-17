@@ -40,7 +40,7 @@ stop_words = set(stopwords.words('french'))
 
 def preprocess(text):
     text = text.lower()
-    text = re.sub(r'[^\w\s]', '', text)  # enlever la ponctuation
+    text = re.sub(r'[^\w\s]', '', text)  
     tokens = word_tokenize(text)
     tokens = [t for t in tokens if t not in stop_words]
     return " ".join(tokens)
